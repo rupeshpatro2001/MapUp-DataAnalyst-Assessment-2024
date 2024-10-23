@@ -49,7 +49,7 @@ You have to submit an excel assessment (as an .xlsm file) along with your python
  ## Excel Task2 
   ![op5](readme_task_images/Task_2.png)
   ### Output Task2
-  ![op6](readme_task_images/Output_Task-2.png)
+  ![op6](readme_task_images/Output_Task_2.png)
  
  ## Excel Task3 
   ![op7](readme_task_images/Task_3.png)
@@ -59,12 +59,12 @@ You have to submit an excel assessment (as an .xlsm file) along with your python
  ## Excel Task4 
   ![op9](readme_task_images/Task_4.png)
   ### Output Task4
-  ![op10](readme_task_images/Output_Task-4.png)
+  ![op10](readme_task_images/Output_Tas_k4.png)
  
  ## Excel Task5 
   ![op11](readme_task_images/Task_5.png)
   ### Output Task5
-  ![op12](readme_task_images/Output_Task-5.png) 
+  ![op12](readme_task_images/Output_Task_5.png) 
 
 # Python Section 1
 
