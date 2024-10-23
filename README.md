@@ -36,6 +36,36 @@ This assessment is designed to evaluate your proficiency in Python programming, 
 
 You have to submit an excel assessment (as an .xlsm file) along with your python task. This evaluation tests your proficiency in Conditional Formatting, Excel Formulae, and Data Manipulation
 <br /><br /> 
+
+## Excel Dataset 
+  ![op1](readme_task_images/Dataset.png)
+
+ ## Excel Task1
+  ![op2](readme_task_images/Task_1.png)
+  ### Output Task1
+  ![op3](readme_task_images/Output_Task_1.png)
+  ![op4](readme_task_images/Output_Task-1.png)
+
+ ## Excel Task2 
+  ![op5](readme_task_images/Task_2.png)
+  ### Output Task2
+  ![op6](readme_task_images/Output_Task-2.png)
+ 
+ ## Excel Task3 
+  ![op7](readme_task_images/Task_3.png)
+  ### Output Task3
+  ![op8](readme_task_images/Output_Task_3.png)
+ 
+ ## Excel Task4 
+  ![op9](readme_task_images/Task_4.png)
+  ### Output Task4
+  ![op10](readme_task_images/Output_Task-4.png)
+ 
+ ## Excel Task5 
+  ![op11](readme_task_images/Task_5.png)
+  ### Output Task5
+  ![op12](readme_task_images/Output_Task-5.png) 
+
 # Python Section 1
 
 ## Question 1: Reverse List by N Elements
