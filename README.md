@@ -88,6 +88,12 @@ Write a function that takes a list and an integer `n`, and returns the list with
 - **Input**: `[10, 20, 30, 40, 50, 60, 70]`, `n=4`
   - **Output**: `[40, 30, 20, 10, 70, 60, 50]`
 
+ ## Answer :
+ ![function1](readme_task_images/Python_Section1-Question_1.png)
+
+   #### Output
+  ![output1](readme_task_images/Output-Python_Section1-Question_1.png)
+
 
 ## Question 2: Lists & Dictionaries
 
@@ -107,7 +113,12 @@ Write a function that takes a list of strings and groups them by their length. T
 
 - **Input**: `["one", "two", "three", "four"]`
   - **Output**: `{3: ['one', 'two'], 4: ['four'], 5: ['three']}`
+    
+ ## Answer :
+ ![function2](readme_task_images/Python_Section1-Question_2.png)
 
+   #### Output
+  ![output2](readme_task_images/Output-Python_Section1-Question_2.png)
 
 ## Question 3: Flatten a Nested Dictionary
 
@@ -157,6 +168,11 @@ For example, if a key points to a list, the index of the list element should be 
     "road.sections[0].condition.traffic": "moderate"
 }
 ```
+ ## Answer :
+ ![function3](readme_task_images/Python_Section1-Question_3.png)
+
+   #### Output
+  ![output3](readme_task_images/Output-Python_Section1-Question_3.png)
 
 ## Question 4: Generate Unique Permutations
 
@@ -179,6 +195,11 @@ You are given a list of integers that may contain duplicates. Your task is to ge
     [2, 1, 1]
 ]
 ```
+ ## Answer :
+ ![function4](readme_task_images/Python_Section1-Question_4.png)
+
+   #### Output
+  ![output4](readme_task_images/Output-Python_Section1-Question_4.png)
 
 ## Question 5: Find All Dates in a Text
 
@@ -203,6 +224,11 @@ text = "I was born on 23-08-1994, my friend on 08/23/1994, and another one on 19
 ```json
 ["23-08-1994", "08/23/1994", "1994.08.23"]
 ```
+ ## Answer :
+ ![function5](readme_task_images/Python_Section1-Question_5.png)
+
+   #### Output
+  ![output5](readme_task_images/Output-Python_Section1-Question_5.png)
 
 ## Question 6: Decode Polyline, Convert to DataFrame with Distances
 
@@ -215,6 +241,12 @@ Write a function that performs the following operations:
    - `longitude`: Longitude of the coordinate.
    - `distance`: The distance (in meters) between the current row's coordinate and the previous row's one. The first row will have a distance of `0` since there is no previous point.
 3. **Calculate the distance** using the Haversine formula for points in successive rows.
+
+ ## Answer :
+ ![function6](readme_task_images/Python_Section1-Question_6.png)
+
+   #### Output
+  ![output6](readme_task_images/Output-Python_Section1-Question_6.png)
 
 ## Question 7: Matrix Rotation and Transformation
 
@@ -241,12 +273,23 @@ Replace each element with the sum of all elements in the same row and column, ex
 ```
 final_matrix = [[22, 19, 16],[23, 20, 17],[24, 21, 18]]
 ```
+ ## Answer :
+ ![function7](readme_task_images/Python_Section1-Question_7.png)
+
+   #### Output
+  ![output7](readme_task_images/Output-Python_Section1-Question_7.png)
 
 ## Question 8: Time Check
 
 You are given a dataset, `dataset-1.csv`, containing columns `id`, `id_2`, and timestamp (`startDay`, `startTime`, `endDay`, `endTime`). The goal is to verify the completeness of the time data by checking whether the timestamps for each unique (`id`, `id_2`) pair cover a full 24-hour period (from 12:00:00 AM to 11:59:59 PM) and span all 7 days of the week (from Monday to Sunday).
 
 Create a function that accepts `dataset-1.csv` as a DataFrame and returns a boolean series that indicates if each (`id`, `id_2`) pair has incorrect timestamps. The boolean series must have multi-index (`id`, `id_2`).
+ ## Answer :
+ ![function8](readme_task_images/Python_Section1-Question_8.png)
+
+   #### Output
+  ![output8](readme_task_images/Output-Python_Section1-Question_8.png)
+
 <br /><br /> 
 # Python Section 2
 
@@ -260,6 +303,12 @@ The resulting DataFrame should have cumulative distances along known routes, wit
 Sample result dataframe:\
  ![Section 2 Question 9](readme_images/section2-q9.png)
 
+ ## Answer :
+ ![function9](readme_task_images/Python_Section2-Question_9.png)
+
+   #### Output
+  ![output9](readme_task_images/Output-Python_Section2-Question_9.png)
+
 ## Question 10: Unroll Distance Matrix
 
 Create a function `unroll_distance_matrix` that takes the DataFrame created in Question 9. The resulting DataFrame should have three columns: columns `id_start`, `id_end`, and `distance`.
@@ -269,11 +318,23 @@ All the combinations except for same `id_start` to `id_end` must be present in t
 Sample result dataframe:\
  ![Section 2 Question 10](readme_images/section2-q10.png)
 
+ ## Answer :
+ ![function10](readme_task_images/Python_Section2-Question_10.png)
+
+   #### Output
+  ![output10](readme_task_images/Output-Python_Section2-Question_10.png)
+
 ## Question 11: Finding IDs within Percentage Threshold
 
 Create a function `find_ids_within_ten_percentage_threshold` that takes the DataFrame created in Question 10 and a reference value from the `id_start` column as an integer.
 
 Calculate average distance for the reference value given as an input and return a sorted list of values from `id_start` column which lie within 10% (including ceiling and floor) of the reference value's average.
+
+ ## Answer :
+ ![function11](readme_task_images/Python_Section2-Question_11.png)
+
+   #### Output
+  ![output11](readme_task_images/Output-Python_Section2-Question_11.png)
 
 ## Question 12: Calculate Toll Rate
 
@@ -288,6 +349,12 @@ The resulting DataFrame should add 5 columns to the input DataFrame: `moto`, `ca
 
 Sample result dataframe:\
  ![Section 2 Question 12](readme_images/section2-q12.png)
+
+ ## Answer :
+ ![function12](readme_task_images/Python_Section2-Question_12.png)
+
+   #### Output
+  ![output12](readme_task_images/Output-Python_Section2-Question_12.png)
 
 ## Question 13: Calculate Time-Based Toll Rates
 
@@ -311,3 +378,9 @@ For each unique (`id_start`, `id_end`) pair, cover a full 24-hour period (from 1
 
 Sample result dataframe:\
  ![Section 2 Question 13](readme_images/section2-q13.png)
+
+ ## Answer :
+ ![function13](readme_task_images/Python_Section2-Question_13.png)
+
+   #### Output
+  ![output13](readme_task_images/Output-Python_Section2-Question_13.png)
