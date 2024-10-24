@@ -14,7 +14,7 @@ This assessment is designed to evaluate your proficiency in Python programming, 
 - Any deviation especially in naming conventions and providing arguments will impact the correct assessment of your work
 
 
-## Result Submission:
+## Submission Structure:
 - Data that you need to work with is in the folder `datasets`.
 - Clone the provided GitHub repository.
 - There should be a folder named `submissions` in the root of your cloned repository, where you need to place the solution files (python_section_1.py, python_section_2.py, excel_assessment.xlsm). This folder should contain the following:
@@ -26,9 +26,9 @@ This assessment is designed to evaluate your proficiency in Python programming, 
       - 📂 templates
       - 📂 datasets
 - Add the following members as **collaborators** to your repository.
-    - `varuna@mapup.ai`
-    - `nitinsk@mapup.ai`
-    - `parshuca@mapup.ai`
+    - `varuna@mapup.ai`- [Awaiting response to accept access]
+    - `nitinsk@mapup.ai`- [Awaiting response to accept access]
+    - `parshuca@mapup.ai`- [Awaiting response to accept access]
 - Submit the link to your repository via the provided Google Form for evaluation.
 
 ## Screenshot of collaborator access page
