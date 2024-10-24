@@ -26,9 +26,9 @@ This assessment is designed to evaluate your proficiency in Python programming, 
       - 📂 templates
       - 📂 datasets
 - Add the following members as **collaborators** to your repository.
-    - `varuna@mapup.ai`- [Awaiting response to accept access]
-    - `nitinsk@mapup.ai`- [Awaiting response to accept access]
-    - `parshuca@mapup.ai`- [Awaiting response to accept access]
+    - `varuna@mapup.ai`
+    - `nitinsk@mapup.ai`
+    - `parshuca@mapup.ai`
 - Submit the link to your repository via the provided Google Form for evaluation.
 
 ## Screenshot of collaborator access page
