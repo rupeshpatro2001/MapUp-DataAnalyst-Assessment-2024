@@ -32,7 +32,7 @@ This assessment is designed to evaluate your proficiency in Python programming, 
 - Submit the link to your repository via the provided Google Form for evaluation.
 
 ## Screenshot of collaborator access page
- ![sc](readme_task_images/screenshot_of_collaborator_access_page.png)
+ ![sc](https://github.com/rupeshpatro2001/MapUp-DataAnalyst-Assessment-2024/blob/main/readme_task_images/screenhot_of_collaborator_access_page.png)
 
 ## MapUp - Excel Assessment
  
