@@ -32,7 +32,7 @@ This assessment is designed to evaluate your proficiency in Python programming, 
 - Submit the link to your repository via the provided Google Form for evaluation.
 
 ## Screenshot of collaborator access page
- ![sc1](readme_task_images/screenshot_of_collaborator_access_page.png)
+ ![op13](readme_task_images/screenshot_of_collaborator_access_page.png)
 
 ## MapUp - Excel Assessment
  
