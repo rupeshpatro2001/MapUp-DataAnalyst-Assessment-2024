@@ -31,9 +31,11 @@ This assessment is designed to evaluate your proficiency in Python programming, 
     - `parshuca@mapup.ai`
 - Submit the link to your repository via the provided Google Form for evaluation.
 
+## Screenshot of collaborator access page
+ ![sc1](readme_task_images/screenshot_of_collaborator_access_page.png)
 
 ## MapUp - Excel Assessment
-
+ 
 You have to submit an excel assessment (as an .xlsm file) along with your python task. This evaluation tests your proficiency in Conditional Formatting, Excel Formulae, and Data Manipulation
 <br /><br /> 
 
